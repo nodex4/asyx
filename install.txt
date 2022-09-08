@@ -1,0 +1,3 @@
+npm init
+npm install gulp gulp-sass sass --save-dev
+gulp
